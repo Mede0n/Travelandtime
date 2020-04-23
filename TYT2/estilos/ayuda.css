@@ -1,0 +1,20 @@
+#Ayuda{
+    left:35%;
+    top:150px;    
+    position: relative;
+    background:blue;
+    color:white;
+    width: 450px;
+    height: 400px;
+    font-size: 15pt;
+    text-align: center;
+}
+#chat{ 
+    left:5%;
+    position: relative;
+    width: 400px;
+    height: 300px;
+    font-size: 12pt;
+    text-align: left;
+    overflow:auto;
+}

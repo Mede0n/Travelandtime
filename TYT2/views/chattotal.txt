@@ -1,0 +1,17 @@
+pedro  : sadsad<br>
+admin  : dsffds<br>
+admin  : hgjhgghj<br>
+pedro  : gjhhghgj<br>
+pedro  : hola<br>
+pedro  : me llamo pedro<br>
+admin  : hola pedro cual es tu problema<br>
+admin  : hola<br>
+admin  : xd<br>
+pedrofg  : hola buenas no me deja comprar paquete<br>
+admin  : no te preocupes que esa funcion no esta implementada aun<br>
+admin  : un saludo<br>
+pedrofg  : de acuerdo<br>
+pedrofg  : pepe<br>
+pedrofg  : admin are you here ?<br>
+admin  : sda<br>
+pedrofg  : dsf<br>

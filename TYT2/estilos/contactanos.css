@@ -1,0 +1,25 @@
+#Contactanos{
+    left:35%;
+    top:150px;    
+    position: relative;
+    width: 450px;
+    height: 600px;
+    font-size: 12pt;
+    text-align: left;
+}
+iframe{
+    position: relative;
+    bottom:10px;
+    border:0;
+}
+footer{
+    word-spacing: 4.25em;
+    left:35%;
+    width:450px;
+    top:20px;
+    position: relative;
+}
+img{
+    width:100px;
+    height: 100px;
+}
